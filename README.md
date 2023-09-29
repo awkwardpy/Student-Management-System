@@ -41,16 +41,16 @@ $ ./student-management-system
 
 Student Management System
 
-Add Student
-Display Students
-Search Student
-Delete Student
-Exit
-Enter your choice: 1
-Enter Roll Number: 19
-Enter Name: Pankaj
-Enter Course: Computer Science
-Student added successfully.
+- Add Student
+- Display Students
+- Search Student
+- Delete Student
+- Exit
+- Enter your choice: 1
+- Enter Roll Number: 19
+- Enter Name: Pankaj
+- Enter Course: Computer Science
+- Student added successfully.
 
 
 You can then display, search, or delete student records using the respective options.
